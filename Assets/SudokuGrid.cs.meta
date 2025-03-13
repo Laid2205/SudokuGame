@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: cbd82968cc6ab9347bb1bf8ec4c39922
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cellPrefab: {fileID: 6334774348970411168, guid: 053e524e45d31c245a359b3e46ed55bc, type: 3}
+  - uiPanel: {instanceID: 0}
+  - hintButton: {instanceID: 0}
+  - hintText: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  - highScoresText: {instanceID: 0}
+  - timerText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
